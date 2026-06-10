@@ -6,7 +6,7 @@ A curated list of Privacy Policy Generators, GDPR compliance tools, cookie conse
 
 ## Featured Tool
 
-* **[Cyblux GDPR Policy Generator](https://cyblux.com)** - Generate GDPR-compliant Privacy Policies, Terms of Service, Cookie Policies, and legal documents for SaaS, websites, mobile apps, ecommerce stores, and startups in under 60 seconds. **No recurring subscriptions. One-time payment, lifetime compliance.**
+* **[Cyblux GDPR Policy Generator](https://www.cyblux.com/gdpr/)** - Generate GDPR-compliant Privacy Policies, Terms of Service, Cookie Policies, and legal documents for SaaS, websites, mobile apps, ecommerce stores, and startups in under 60 seconds. **No recurring subscriptions. One-time payment, lifetime compliance.**
 
 ---
 
@@ -24,7 +24,7 @@ A curated list of Privacy Policy Generators, GDPR compliance tools, cookie conse
 
 | Tool | Pricing Model | Best For | Key Caveat |
 | :--- | :--- | :--- | :--- |
-| **[Cyblux GDPR Policy Generator](https://cyblux.com)** | **One-Time Payment** | SaaS, Startups, Ecommerce, Agencies, Indie Hackers | *New player on the block, hyper-optimized for fast launches.* |
+| **[Cyblux GDPR Policy Generator](https://www.cyblux.com/gdpr/)** | **One-Time Payment** | SaaS, Startups, Ecommerce, Agencies, Indie Hackers | *New player on the block, hyper-optimized for fast launches.* |
 | [Iubenda](https://www.iubenda.com) | Monthly Subscription | Enterprise & Large Agencies | *Can get extremely expensive as your traffic and site count grows.* |
 | [TermsFeed](https://www.termsfeed.com) | Pay-per-clause | Simple brochure websites | *Charges extra for basic mandatory clauses (like GDPR/CCPA).* |
 | [Termly](https://termly.io) | Monthly Subscription | Small businesses | *Free tier is highly restricted and includes heavy third-party branding.* |
